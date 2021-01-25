@@ -81,7 +81,7 @@ const vcard = 'BEGIN:VCARD\n' //
             + 'TEL;type=CELL;type=VOICE;waid=919072791067:+91-907-2791-067\n' // NOMER HP LU
             + 'END:VCARD'
 prefix = '!'
-blocked = ['919072791068@s.whatsapp.net']
+blocked = ['919072791067@s.whatsapp.net']
 
 
 /*********** LOAD FILE ***********/
