@@ -1,2 +1,3 @@
 # LC-WABOT
-A Simple Whatsapp Bot Fron Nodejs
+A Simple WhatsappBot Fron Nodejs
+Clone this repo
